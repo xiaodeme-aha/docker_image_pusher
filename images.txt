@@ -7,3 +7,4 @@ xhofe/alist:latest
 couchdb
 postgres
 joplin/server
+dreamacro/clash-premium
