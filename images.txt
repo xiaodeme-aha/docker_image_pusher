@@ -8,3 +8,4 @@ couchdb
 postgres
 joplin/server
 dreamacro/clash-premium
+snowdreamtech/frpc
